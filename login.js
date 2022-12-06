@@ -9,7 +9,7 @@ count++;
 }
 }
 if(count==2){
-cunsole.log(num, :is a prime number");
+console.log(nun, "is a prime number");
 } else {
 console.log(num,"is not a prime number");
 }
